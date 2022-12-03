@@ -2,8 +2,9 @@
 
 :school: a graduate student at East China Normal University.
 
-:dizzy: want to a front end developer.
-&nbsp;&nbsp;
+:dizzy: front ender.   
+
+
 
 # :mailbox_with_mail: How to reach me
 
