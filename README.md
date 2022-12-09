@@ -1,10 +1,10 @@
-#  👋 Hi, I'm quarkape from ECNU
+#  👋 Hi, I'm quarkape.
 
-:school: a graduate student at East China Normal University.
+:school: a graduate student at ECNU.
 
-:dizzy: front ender.   
+:dizzy: want to be a front ender.   
 
-
+&nbsp;
 
 # :mailbox_with_mail: How to reach me
 
