@@ -1,3 +1,3 @@
 :rocket:  wanna be a full stack developer.
 
-:heart: 我好像疯狂的爱上你了`ymsun`，我好像忘不掉你了.....
+:heart: `sym`在我的github上将永远有一席位置，在我的心上将永远是一道疤痕
